@@ -1,4 +1,4 @@
 # xel-medias
 
 
-![Reference](logos/elastic-logo-big.png)
+![Reference](logos/elastic-logo-760x780.png)
