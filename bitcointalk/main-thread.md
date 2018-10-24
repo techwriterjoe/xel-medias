@@ -3,7 +3,7 @@
 [img]https://raw.githubusercontent.com/xel-software/xel-medias/master/bitcointalk/xel-logo-min.jpg[/img]
 
 [center][size=16pt][b]Important Links[/b]
-[url=https://xel.org]Website[/url] | [url=https://github.com/xel-software/orientation]Wallet[/url] | [url=https://github.com/xel-software]Github[/url] | [url=https://github.com/xel-software/xel-white-paper/blob/master/Whitepaper_XEL_Draft_001.md]Whitepaper[/url] | [url=https://explorer.xel.org/]Blockchain Explorer[/url] | [url=https://twitter.com/elastic_coin/]Twitter[/url] | [url=https://discord.gg/2yM2eES]Discord[/url] | [url=https://t.me/xelupdates]Telegram[/url] | [url=https://join.slack.com/t/elasticfans/shared_invite/enQtNDM5NjY0ODIzOTcyLWU2MWIwOGUxNTE5YTg5NzFkNTBiMzhmYzk2MDhmMjE3ODIyZTQyNmMyNzU3NWM5YWE5NDAxNjFmZTY0MmZhOTY]Slack[/url]
+[url=https://xel.org]Website[/url] | [url=https://github.com/xel-software/orientation]Wallet[/url] | [url=https://github.com/xel-software]Github[/url] | [url=https://github.com/xel-software/xel-white-paper/blob/master/Whitepaper_XEL_Draft_001.md]Whitepaper[/url] | [url=https://explorer.xel.org/]Blockchain Explorer[/url] | [url=https://xelastic.wiki]Wiki[/url] | [url=https://twitter.com/elastic_coin/]Twitter[/url] | [url=https://discord.gg/2yM2eES]Discord[/url] | [url=https://t.me/xelupdates]Telegram[/url] | [url=https://join.slack.com/t/elasticfans/shared_invite/enQtNDM5NjY0ODIzOTcyLWU2MWIwOGUxNTE5YTg5NzFkNTBiMzhmYzk2MDhmMjE3ODIyZTQyNmMyNzU3NWM5YWE5NDAxNjFmZTY0MmZhOTY]Slack[/url]
 [img]http://i.imgur.com/4idmx8h.png[/img]
 [left]
 
