@@ -23,6 +23,7 @@ For the past few weeks, there has been a "community reboot" as i like to call it
 - created a small group of people to help organize the discord server (http://link.xel.org/discord)
 - opened a brand new wiki (https://xelastic.wiki soon to be hosted to https://wiki.xel.org)
 - opened a new community twitter account (https://twitter.com/xel_community)
+- renamed the official twitter account (https://twitter.com/xel_project)
 - opened an investfeed account (https://link.xel.org/investfeed)
 - started a monthly community-update on medium
 - applied to Delta Direct and Blockfolio Signal to push more updates to the community
