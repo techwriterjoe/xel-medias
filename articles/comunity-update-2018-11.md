@@ -23,7 +23,6 @@ For the past few weeks, there has been a "community reboot" as i like to call it
 - created a small group of people to help organize the discord server (http://link.xel.org/discord)
 - opened a brand new wiki (https://xelastic.wiki soon to be hosted to https://wiki.xel.org)
 - opened a new community twitter account (https://twitter.com/xel_community)
-- renamed the official twitter account (https://twitter.com/xel_project)
 - opened an investfeed account (https://link.xel.org/investfeed)
 - started a monthly community-update on medium
 - applied to Delta Direct and Blockfolio Signal to push more updates to the community
@@ -34,7 +33,7 @@ For the past few weeks, there has been a "community reboot" as i like to call it
 - updating the website (https://xel.org)
 - updating the block explorer (https://explorer.xel.org)
 - updating the wallets (https://wallet.xel.org)
-- updating all social media accounts (the twitter accounts @elastic_coin and @elastic_comm will soon be renamed to @xel-project and @xel-community)
+- updating all social media accounts (the twitter accounts @elastic_coin and @elastic_comm will have been renamed to @xel_project and @xel_community)
 - reaching to Bittrex and CoinMarketCap to update the informations
 
 ### Regarding what has been produced by the community, here is a few things that have been done :
